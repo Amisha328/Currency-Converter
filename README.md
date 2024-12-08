@@ -1,5 +1,6 @@
 <h2 align ="center">Currency Converter</h2>
-Online Platform where currency values can be easily converted based on current exchange rates. It involves calculating the exchange rate between two currencies, which represents the value of one currency in terms of another. <br/><br/>
+Built a currency conversion app using JavaScript and the Fetch API to retrieve real-time exchange rates. It involves calculating the exchange rate between two currencies, which represents the value of one currency in terms of another. <br/><br/>
+
 
 <h2>Project Demo:</h2>
 
